@@ -1,2 +1,2 @@
-print(shreya)
-print(mysuru)
+print("shreya")
+print("mysuru")
